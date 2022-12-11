@@ -1,0 +1,22 @@
+<p>= opening tag
+<\p>= closing tag
+when you keep writin the tags in b/w is kniwn as nested html tag.
+if you open like = 1,2,3 then it'll close as 3,2,1.
+meta data= data about data (additional info).
+heading tags <h1>, <h2>etc; used to give different types of heading.
+what does the exclamation do?
+html is not case sensitive.
+attributes= features.
+{DOWNLOAD STICKY NOTES, VSCODE.}
+H.W= MY PAGE
+NAME 
+CLASS
+SECTION
+PICTURE
+COLOUR OF THE TAGS SHOULD BE DIFFERENT.
+<audio controls>
+        <source src="C:\Users\acer\OneDrive\Desktop\mashup- promiscuous x motive (edit audio).mp3" type= "audio/mp3" >
+        </audio>
+for adding audio.
+<p>checkout these videos!
+        <a href="https://www.youtube.com/watch?v=vrACRrecWQc"> yytyty </a>

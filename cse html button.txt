@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+
+<head>
+    <title>Document</title>
+</head>
+<body>
+    <h>Heloowowowow </h>
+    <button type="button" onclick="document.getElementById('demo').innerHTML=Date()">
+Click me.</button>
+<p id= "demo"></p>
+</body>
+</html>
